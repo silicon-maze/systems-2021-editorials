@@ -6,6 +6,6 @@
 
 [Obfuscate](./Obfuscate/)
 
-[just-copy](./just)
+[just-copy](./copy)
 
 [the-truth](./truth)
