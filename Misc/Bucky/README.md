@@ -15,7 +15,7 @@ Can you help Bucky find the hidden flag to help him defeat Hydra?
 
 ## Relevant files / links
 
-[Captainshelp.py](./Captainshelp.py) (same file drive link: https://drive.google.com/file/d/1tgqWq7_R76MnUOiNqOWFOi7scD9_ekC-/view?usp=sharing) 
+[Captainshelp.py](https://drive.google.com/file/d/1tgqWq7_R76MnUOiNqOWFOi7scD9_ekC-/view?usp=sharing) 
 
 
 ## Solution
