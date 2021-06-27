@@ -1,4 +1,4 @@
-# Osint Challenges
+# WEB Challenges
 
 [Two-Fake-Stones](./Two-Fake-Stones/README.md)
 
