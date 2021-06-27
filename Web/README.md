@@ -1,5 +1,5 @@
 # Osint Challenges
 
-[Two-Fake-Stones](./Two-Fake-Stones/)
+[Two-Fake-Stones](./Two-Fake-Stones/README.md)
 
-[Young Spiderman](./Young/)
+[Young Spiderman](./Young/README.md)
