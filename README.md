@@ -1,4 +1,4 @@
-# SiliconMaze-Systems-2021-editorials
+# SiliconMaze Systems 2021 Editorials
 
 [Cryptography](./Crypto)
 
