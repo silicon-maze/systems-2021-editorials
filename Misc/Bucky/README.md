@@ -1,4 +1,4 @@
-# \<**Bucky's Dilemma**\>
+# **Bucky's Dilemma**
 
 Category: RE
 
