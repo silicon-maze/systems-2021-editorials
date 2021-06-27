@@ -12,7 +12,7 @@ Young Peter Parker found this site while searching for flags, and it seemed too 
 
 ## Relevant files / links
 
-https://gitintense.github.io/index.html
+Site is hosted [here](https://gitintense.github.io/index.html)
 
 
 ## Solution
