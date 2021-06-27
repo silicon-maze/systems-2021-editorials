@@ -1,4 +1,4 @@
-# \<**Escalate**\>
+# **Escalate**
 
 Category: Forensics
 
