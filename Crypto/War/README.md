@@ -12,7 +12,7 @@ Hawkeye was sending battle strategies as encoded messages to Wanda, but forgot t
 
 ## Relevant files / links
 
-[important.txt](./important.txt) (drive link for same file: https://drive.google.com/file/d/1pPi_EO8ud0qRMGACb9-Im4BdNE4_tzMF/view?usp=sharing)
+[important.txt](https://drive.google.com/file/d/1pPi_EO8ud0qRMGACb9-Im4BdNE4_tzMF/view?usp=sharing)
 
 ## Solution
 
