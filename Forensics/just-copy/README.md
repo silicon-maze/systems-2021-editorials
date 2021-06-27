@@ -1,4 +1,4 @@
-# \<**Just Copy**\>
+# **Just Copy**
 
 Category: Forensics
 
