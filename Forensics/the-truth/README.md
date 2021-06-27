@@ -1,4 +1,4 @@
-# \<**The Truth**\>
+# **The Truth**
 
 Category: Forensics
 
