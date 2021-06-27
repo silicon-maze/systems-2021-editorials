@@ -1,4 +1,4 @@
-# \<**The Civil War**\>
+# **The Civil War**
 
 Category: Crypto
 
